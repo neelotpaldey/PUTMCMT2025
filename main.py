@@ -75,7 +75,7 @@ def main():
         pass
 
     st.markdown(
-        "<h2 style='text-align:center; font-weight:700;'>Result Sessional Odd Sem 2025</h2>",
+        "<h2 style='text-align:center; font-weight:700;'>Result PUT Odd Sem 2025</h2>",
         unsafe_allow_html=True
     )
 
@@ -152,4 +152,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
